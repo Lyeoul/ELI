@@ -230,10 +230,10 @@ o 24,500 MINA
 ### Budget Breakdown
 o **Software Development:** 3 developers working 20 hours per week for 10 weeks, assuming approximately 35 MINA per hour rate (3 X 20 X 10 X 35 = 21,000).  
 o **UI Design (Images):** 500 MINA  
-o **Project Manager:** Aiming to actively engage in the DeFi ecosystem by directly connecting with DeFi projects and facilitating collaborative opportunities. Working 10 hours per week for 10 weeks, assuming approximately 20 MINA per hour rate (20 X 10 X 10 = 2,000)..
+o **Project Manager:** Aiming to actively engage in the DeFi ecosystem by directly connecting with DeFi projects and facilitating collaborative opportunities. Working 10 hours per week for 10 weeks, assuming approximately 20 MINA per hour rate (20 X 10 X 10 = 2,000).
 
 ### Wallet Address
-o 
+o B62qjNJk55Amr7t3Wpju3HL66z22aPpUZKgt6ZJRccUWWPxr6vU27wx
 
 ---
 
